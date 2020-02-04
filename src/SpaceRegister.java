@@ -12,6 +12,21 @@ public class SpaceRegister {
 		space.add(newSpace);
 		
 	}
+	public void printAll() {
+		for(int i=0;i<space.size();i++) {
+			System.out.println("(SpaceShip) Name : "+space.get(i).getName() + " | | Speed: " + space.get(i).getMaxSpeed());
+		}
+		
+	}
 
+	public ArrayList<Spaceship> getSpace() {
+		return space;
+	}
+
+	public void setSpace(ArrayList<Spaceship> space) {
+		this.space = space;
+	}
+
+	
 	
 }
