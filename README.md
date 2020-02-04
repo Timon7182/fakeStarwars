@@ -1,5 +1,5 @@
 # fakeStarwars
-Date : 3rd April 2019 . Reason : For Fun. Place: University of Pecs; 
+Date : 3rd April 2019 . Reason : For Fun. Place: University of Pecs Language: JAVA; 
 
 
 I have created many objects with registers.
